@@ -1,2 +1,2 @@
-# BCIS4610-HW6-CT
+# BCIS4610
 This is a repository created for HW6
